@@ -12,6 +12,8 @@ processed at your own risk i an not respondble for if your vita get blocked but 
 *    and the usb cable for the vita connect it to your pc
 
 software you need:
+    
+
 *    qcma - https://github.com/codestation/qcma/releases/tag/v0.4.1  - go down to the  one that say 'Qcma_setup-0.4.1.exe' and click it to download it
 *    finalHE - https://github.com/soarqin/finalhe/releases - click on 'FinalHE_v1.92_win32.7z'
 <br>
